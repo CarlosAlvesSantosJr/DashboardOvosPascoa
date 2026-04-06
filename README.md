@@ -7,3 +7,6 @@ A partir desses dados, foi realizada uma etapa de tratamento, organização e an
 Como resultado, foi desenvolvido um dashboard interativo que possibilita a visualização clara e dinâmica das informações, facilitando a interpretação dos dados e auxiliando na tomada de decisão. O painel apresenta comparações de preços, distribuição por estabelecimento e outros indicadores relevantes.
 
 Este projeto demonstra a importância do uso de dados reais para gerar insights relevantes, além de evidenciar a aplicação prática de ferramentas de análise e visualização no contexto de Big Data.
+
+<img width="1920" height="1080" alt="Captura de Tela (122)" src="https://github.com/user-attachments/assets/424fbe59-3bcb-4c1e-b063-592d60b4f6f8" />
+<img width="1920" height="1080" alt="Captura de Tela (123)" src="https://github.com/user-attachments/assets/4b26e041-bedb-4630-aa24-83af1c34dee2" />
